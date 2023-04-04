@@ -1,6 +1,6 @@
-@ross
+@parabank
 Feature: Parabank home page
-
+@ross
   Scenario: Validation fires on Register for a new account
     Given I am on the Parabank home page
     When I click on the Register link

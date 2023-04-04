@@ -1,5 +1,6 @@
 package utils;
 
+import io.github.sridharbandi.Accessibility;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
